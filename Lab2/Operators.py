@@ -12,3 +12,13 @@ if 5 != 10:
 if 5 == 10 or 4 == 4:
     print("At least one of the statemets is true") #Ex5
 
+
+#Examples
+print(10 + 5)
+
+print((6 + 3) - (6 + 3))
+
+print(100 + 5 * 3)
+
+print(5 + 4 - 7 + 3)
+
