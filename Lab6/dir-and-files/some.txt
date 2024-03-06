@@ -1,0 +1,6 @@
+apple
+banana
+cherry
+date
+
+All these removed from some.txt

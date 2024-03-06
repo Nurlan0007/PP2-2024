@@ -1,0 +1,6 @@
+apple
+banana
+cherry
+date
+
+All these moved from some.txt
