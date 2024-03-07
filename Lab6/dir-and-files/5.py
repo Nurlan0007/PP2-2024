@@ -3,7 +3,6 @@ def write_list_to_file(file_path, data_list):
         for item in data_list:
             file.write("%s\n" % item)
 
-# Specify the file path and the list to write
 file_path = 'some.txt'
 data_list = ['apple', 'banana', 'cherry', 'date']
 
